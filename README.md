@@ -52,6 +52,6 @@ Your contributions are invaluable! Feel free to contribute by opening issues or 
 
 ## 📬 Contact
 
-This project was created by Sahil Makadia. For any queries or feedback, feel free to reach out via email at reddyvikas1618@gmail.com .
+This project was created by Vikas Reddy. For any queries or feedback, feel free to reach out via email at reddyvikas1618@gmail.com .
 
 Thank you for selecting MyNotes! We're dedicated to enhancing your task management. If you have any questions or feedback, don't hesitate to reach out. Happy organizing! 📅
